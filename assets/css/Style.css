@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css?family=Patua+One&display=swap');
+
+
+.dropdown-menu{
+    background: rgba(255, 158, 0, 0.8);
+}
+.dropdown-menu a{
+    font-size: 16px;
+    color: white;
+    font-family: 'Patua One', cursive;
+}
+
+
+
+/*FOOTER*/
+#footer{
+    align-self: flex-end;
+    width: 100%;
+    text-align: center;
+    padding-top:10px;
+    padding-bottom: 10px;
+    color: white;
+    background: rgba(37, 37, 35,  0.7);
+    border-top: 4px solid #fd7e14;
+}
